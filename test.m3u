@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Canal Ejemplo 1
+#EXTINF:-1, tvg-logo="https://arestv.vip:443/images/cBsbpEe3LUJcEbu82orAjh_0hWeXmpDQVXgSZYcKIKPCvTOBZh82VsN540Vn8KxHwBU3GbGdIXYgWy1gkOzR9vWkehlA66nv9l-EkePHi686iiE0et0vGtqwv3aonFil.png
+", Canal Ejemplo 1
 http://infinitetv.lat:80/live/Jepetu_01/cjFd8Vt6Jm/639853.ts
 #EXTINF:-1, Canal Ejemplo 2
 http://infinitetv.lat:80/live/Jepetu_01/cjFd8Vt6Jm/571366.ts
+
